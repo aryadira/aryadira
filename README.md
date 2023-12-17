@@ -11,9 +11,7 @@ Web Developer and UI/UX Designer
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
       width="50"
       height="50"
-      alt="JavaScript" /></a>
-  
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"
+      alt="JavaScript" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"
     ><img
       src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
       width="50"
