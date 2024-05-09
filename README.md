@@ -95,12 +95,3 @@ Web Developer and UI/UX Designer
     </picture>
   </a>
 </p>
-
-<div>
-  <picture>
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://id.pinterest.com/pin/6544361953161339/" />
-      <img src="https://id.pinterest.com/pin/6544361953161339/" width="32" height="32" />
-    </picture>
-</div>
