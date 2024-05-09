@@ -95,3 +95,7 @@ Web Developer and UI/UX Designer
     </picture>
   </a>
 </p>
+
+<div>
+  <img src="https://id.pinterest.com/pin/6544361953161339/" alt="spider-cat" />
+</div>
