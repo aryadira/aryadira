@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="840" height="128" viewBox="0 0 840 128" fill="none">
+<style>
+  text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Inter", Helvetica, Arial, sans-serif; }
+  .up { opacity: 0; animation: up .7s cubic-bezier(.22,1,.36,1) forwards; }
+  @keyframes up { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+  .rule { stroke-dasharray: 840; stroke-dashoffset: 840; animation: draw 1.2s cubic-bezier(.65,0,.35,1) forwards; }
+  @keyframes draw { to { stroke-dashoffset: 0; } }
+
+  .lbl { font-size: 12px; font-weight: 600; letter-spacing: 1.6px; fill: #71717a; }
+
+  .q { font-size: 15px; font-weight: 500; fill: #a1a1aa; }
+  .big { font-size: 34px; font-weight: 650; letter-spacing: -1.2px; fill: #f4f4f5; }
+  .arrow { animation: nudge 1.8s ease-in-out 1.6s infinite; }
+  @keyframes nudge { 0%, 100% { transform: translate(0, 0); } 50% { transform: translate(4px, -4px); } }
+
+</style>
+<defs><linearGradient id="g" x1="0" x2="1" spreadMethod="reflect"><stop offset="0" stop-color="#a78bfa" /><stop offset=".5" stop-color="#3b82f6" /><stop offset="1" stop-color="#06b6d4" /><animateTransform attributeName="gradientTransform" type="translate" values="0 0; 1 0; 0 0" dur="6s" repeatCount="indefinite" /></linearGradient></defs>
+<g class="up">
+  <text class="lbl" x="0" y="14"><tspan fill="#a78bfa">04</tspan><tspan dx="10">CONTACT</tspan></text>
+</g>
+<g class="up" style="animation-delay:.15s"><text class="q" x="0" y="58">Looking for a designer &amp; developer?</text></g>
+<g class="up" style="animation-delay:.3s">
+  <text class="big" x="0" y="102">Let’s build something <tspan fill="url(#g)">amazing.</tspan></text>
+</g>
+<g class="up" style="animation-delay:.45s">
+  <g class="arrow">
+    <circle cx="814" cy="88" r="26" stroke="#27272a" />
+    <path d="M807 95 L821 81 M811 81 H821 V91" stroke="#f4f4f5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+</g>
+</svg>

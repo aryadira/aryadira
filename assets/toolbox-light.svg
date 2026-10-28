@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="840" height="72" viewBox="0 0 840 72" fill="none">
+<style>
+  text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Inter", Helvetica, Arial, sans-serif; }
+  .up { opacity: 0; animation: up .7s cubic-bezier(.22,1,.36,1) forwards; }
+  @keyframes up { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+  .rule { stroke-dasharray: 840; stroke-dashoffset: 840; animation: draw 1.2s cubic-bezier(.65,0,.35,1) forwards; }
+  @keyframes draw { to { stroke-dashoffset: 0; } }
+
+  .lbl { font-size: 12px; font-weight: 600; letter-spacing: 1.6px; fill: #a1a1a6; }
+
+  .chip { font-size: 13.5px; font-weight: 550; fill: #0f0f10; }
+  .pop { opacity: 0; transform-box: fill-box; transform-origin: center; animation: pop .55s cubic-bezier(.34,1.56,.64,1) forwards; }
+  @keyframes pop { from { opacity: 0; transform: scale(.7); } to { opacity: 1; transform: scale(1); } }
+  .glow { animation: glow 3s ease-in-out infinite; }
+  @keyframes glow { 0%, 100% { stroke-opacity: .35; } 50% { stroke-opacity: 1; } }
+
+</style>
+<g class="up">
+  <text class="lbl" x="0" y="14"><tspan fill="#7c3aed">03</tspan><tspan dx="10">TOOLBOX</tspan></text>
+</g>
+<g class="pop" style="animation-delay:0.15s">
+  <rect x="0.5" y="32.5" width="95" height="33" rx="16.5" fill="#f6f6f7" stroke="#e7e7ea" />
+  <text class="chip" x="12" y="53.5">TypeScript</text>
+</g>
+<g class="pop" style="animation-delay:0.21s">
+  <rect x="102.5" y="32.5" width="59" height="33" rx="16.5" fill="#f6f6f7" stroke="#e7e7ea" />
+  <text class="chip" x="114" y="53.5">React</text>
+</g>
+<g class="pop" style="animation-delay:0.27s">
+  <rect x="168.5" y="32.5" width="85" height="33" rx="16.5" fill="#f6f6f7" class="glow" stroke="#7c3aed" style="animation-delay:0.8s" /><circle cx="181" cy="49" r="3" fill="#7c3aed" />
+  <text class="chip" x="192" y="53.5">Next.js</text>
+</g>
+<g class="pop" style="animation-delay:0.33s">
+  <rect x="260.5" y="32.5" width="45" height="33" rx="16.5" fill="#f6f6f7" stroke="#e7e7ea" />
+  <text class="chip" x="272" y="53.5">Vue</text>
+</g>
+<g class="pop" style="animation-delay:0.39s">
+  <rect x="312.5" y="32.5" width="81" height="33" rx="16.5" fill="#f6f6f7" stroke="#e7e7ea" />
+  <text class="chip" x="324" y="53.5">Tailwind</text>
+</g>
+<g class="pop" style="animation-delay:0.45s">
+  <rect x="400.5" y="32.5" width="45" height="33" rx="16.5" fill="#f6f6f7" stroke="#e7e7ea" />
+  <text class="chip" x="412" y="53.5">PHP</text>
+</g>
+<g class="pop" style="animation-delay:0.51s">
+  <rect x="452.5" y="32.5" width="85" height="33" rx="16.5" fill="#f6f6f7" class="glow" stroke="#7c3aed" style="animation-delay:2.4s" /><circle cx="465" cy="49" r="3" fill="#7c3aed" />
+  <text class="chip" x="476" y="53.5">Laravel</text>
+</g>
+<g class="pop" style="animation-delay:0.57s">
+  <rect x="544.5" y="32.5" width="102" height="33" rx="16.5" fill="#f6f6f7" stroke="#e7e7ea" />
+  <text class="chip" x="556" y="53.5">CodeIgniter</text>
+</g>
+<g class="pop" style="animation-delay:0.63s">
+  <rect x="653.5" y="32.5" width="95" height="33" rx="16.5" fill="#f6f6f7" stroke="#e7e7ea" />
+  <text class="chip" x="665" y="53.5">PostgreSQL</text>
+</g>
+<g class="pop" style="animation-delay:0.69s">
+  <rect x="755.5" y="32.5" width="71" height="33" rx="16.5" fill="#f6f6f7" class="glow" stroke="#7c3aed" style="animation-delay:3.6s" /><circle cx="768" cy="49" r="3" fill="#7c3aed" />
+  <text class="chip" x="779" y="53.5">Figma</text>
+</g>
+</svg>

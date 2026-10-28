@@ -1,40 +1,50 @@
 <a href="https://aryadiras.my.id">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
-    <img src="./assets/header-light.svg" width="100%" alt="Arya Dira Hernanda — UI/UX Designer & Full-Stack Developer" />
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
+  <img src="./assets/header-light.svg" width="100%" alt="Arya Dira Hernanda, UI/UX Designer & Full-Stack Developer" />
+</picture>
 </a>
 
-I design and build intuitive, high-performance web experiences, living where aesthetics meet functionality.
-
-**Now**
-
-- Junior Software Developer at **adw consulting**
-- Frontend Engineer at **Abadikan**
-- Freelance Web Designer at **RAF-Studio**
-
-**Selected work**
-
-- **Seefluencer**, live learning platform for creators <sub>· UI Design · 2024</sub>
-- **Venya Ubud**, 5-star villa investment site in Bali <sub>· UI Design · 2025</sub>
-- **Competiverse**, competition discovery for students <sub>· Design & Frontend · 2023</sub>
-- **Greenverse**, green solutions through technology <sub>· Design & Frontend · 2023</sub>
-- **PT. Masrur**, company profile website <sub>· Design & Frontend · 2023</sub>
-
-<sub>Full case studies → <a href="https://aryadiras.my.id">aryadiras.my.id</a></sub>
-
-**Stack**
+<br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,react,nextjs,vue,tailwind,php,laravel,postgres,figma&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,react,nextjs,vue,tailwind,php,laravel,postgres,figma&theme=light" />
-  <img height="36" src="https://skillicons.dev/icons?i=ts,react,nextjs,vue,tailwind,php,laravel,postgres,figma&theme=light" alt="TypeScript, React, Next.js, Vue, Tailwind, PHP, Laravel, PostgreSQL, Figma" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/now-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/now-light.svg" />
+  <img src="./assets/now-light.svg" width="100%" alt="Now: Junior Software Developer at adw consulting, Frontend Engineer at Abadikan, Web Designer at RAF-Studio. 3+ years, 15+ projects, 10+ clients, 12 peaks." />
 </picture>
 
-**Elsewhere**
+<br/>
 
-[Portfolio](https://aryadiras.my.id) · [LinkedIn](https://www.linkedin.com/in/aryadira/) · [Instagram](https://www.instagram.com/aryaadrh/) · [Threads](https://www.threads.net/@aryaadrh) · [Email](mailto:abadikanid@gmail.com) · [CV](https://drive.google.com/file/d/1AwaCzeiVlM6mhQ_8JPmxKwWMQLoOMIfQ/view?usp=sharing)
+<a href="https://aryadiras.my.id">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/work-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/work-light.svg" />
+  <img src="./assets/work-light.svg" width="100%" alt="Selected work: Seefluencer, Venya Ubud, Competiverse, Greenverse" />
+</picture>
+</a>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/toolbox-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/toolbox-light.svg" />
+  <img src="./assets/toolbox-light.svg" width="100%" alt="Toolbox: TypeScript, React, Next.js, Vue, Tailwind, PHP, Laravel, CodeIgniter, PostgreSQL, Figma" />
+</picture>
+
+<br/>
+
+<a href="mailto:abadikanid@gmail.com">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contact-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/contact-light.svg" />
+  <img src="./assets/contact-light.svg" width="100%" alt="Let's build something amazing" />
+</picture>
+</a>
+
+<sub><a href="https://aryadiras.my.id">Portfolio</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/aryadira/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://www.instagram.com/aryaadrh/">Instagram</a> &nbsp;·&nbsp; <a href="https://www.threads.net/@aryaadrh">Threads</a> &nbsp;·&nbsp; <a href="mailto:abadikanid@gmail.com">Email</a> &nbsp;·&nbsp; <a href="https://drive.google.com/file/d/1AwaCzeiVlM6mhQ_8JPmxKwWMQLoOMIfQ/view?usp=sharing">CV</a></sub>
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryadira/aryadira/output/github-snake-dark.svg" />
